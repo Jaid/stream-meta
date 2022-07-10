@@ -1,20 +1,20 @@
 [
   {
-    "name": "Swampert",
-    "id": 260,
+    "name": "Azumarill",
+    "id": 184,
     "shiny": false,
-    "cp": 2500
+    "cp": 1500
   },
   {
-    "name": "Abomasnow",
-    "id": 460,
+    "name": "Machamp",
+    "id": 68,
     "shiny": false,
-    "cp": 2500
+    "cp": 1500
   },
   {
     "name": "Clefable",
     "id": 36,
     "shiny": false,
-    "cp": 2500
+    "cp": 1500
   }
 ]
