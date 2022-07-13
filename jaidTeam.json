@@ -49,7 +49,7 @@
     "shadow": false,
     "moves": {
       "fast": {
-        "name": "But bit",
+        "name": "Bug bit",
         "type": "bug"
       },
       "charge1": {
