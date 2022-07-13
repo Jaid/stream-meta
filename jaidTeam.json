@@ -45,8 +45,8 @@
     "name": "Burmadame",
     "id": 413,
     "shiny": false,
-    "cp": 1496,
-    "shadow": true,
+    "cp": 1500,
+    "shadow": false,
     "moves": {
       "fast": {
         "name": "But bit",
