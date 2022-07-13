@@ -3,18 +3,26 @@
     "name": "Swampert",
     "id": 260,
     "shiny": false,
-    "cp": 1500
+    "cp": 1500,
+    "shadow": false,
+    "moves": {
+    "Fast": {
+    
+    }  
+    }
   },
   {
     "name": "Serperior",
     "id": 497,
     "shiny": false,
-    "cp": 1500
+    "cp": 1500,
+    "shadow": false,
   },
   {
     "name": "Granbull",
     "id": 210,
     "shiny": false,
-    "cp": 1496
+    "cp": 1496,
+    "shadow": false,
   }
 ]
