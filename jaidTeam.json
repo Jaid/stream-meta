@@ -6,9 +6,18 @@
     "cp": 1500,
     "shadow": false,
     "moves": {
-    "Fast": {
-    
-    }  
+      "fast": {
+        "name": "a",
+        "type": "fire"
+      },
+      "charge1": {
+        "name": "b",
+        "type": "water"
+      },
+      "charge2": {
+        "name": "c",
+        "type": "ground"
+      }
     }
   },
   {
@@ -17,12 +26,40 @@
     "shiny": false,
     "cp": 1500,
     "shadow": false,
+    "moves": {
+      "fast": {
+        "name": "a",
+        "type": "fire"
+      },
+      "charge1": {
+        "name": "b",
+        "type": "water"
+      },
+      "charge2": {
+        "name": "c",
+        "type": "ground"
+      }
+    }
   },
   {
     "name": "Granbull",
     "id": 210,
     "shiny": false,
     "cp": 1496,
-    "shadow": false,
+    "shadow": true,
+    "moves": {
+      "fast": {
+        "name": "a",
+        "type": "fire"
+      },
+      "charge1": {
+        "name": "b",
+        "type": "water"
+      },
+      "charge2": {
+        "name": "c",
+        "type": "ground"
+      }
+    }
   }
 ]
