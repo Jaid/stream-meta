@@ -1,64 +1,64 @@
 [
   {
-    "name": "Swampert",
-    "id": 260,
+    "name": "Mantine",
+    "id": 226,
     "shiny": false,
     "cp": 1500,
     "shadow": false,
     "moves": {
       "fast": {
-        "name": "a",
-        "type": "fire"
-      },
-      "charge1": {
-        "name": "b",
+        "name": "Bubble",
         "type": "water"
       },
+      "charge1": {
+        "name": "Ice Beam",
+        "type": "ice"
+      },
       "charge2": {
-        "name": "c",
-        "type": "ground"
+        "name": "Bubble Beam",
+        "type": "water"
       }
     }
   },
   {
-    "name": "Serperior",
-    "id": 497,
+    "name": "Tropius",
+    "id": 357,
     "shiny": false,
     "cp": 1500,
     "shadow": false,
     "moves": {
       "fast": {
-        "name": "a",
-        "type": "fire"
+        "name": "Air Slash",
+        "type": "flying"
       },
       "charge1": {
-        "name": "b",
-        "type": "water"
+        "name": "Leaf Blade",
+        "type": "grass"
       },
       "charge2": {
-        "name": "c",
-        "type": "ground"
+        "name": "Aerial Ice",
+        "type": "flying"
       }
     }
   },
   {
-    "name": "Granbull",
-    "id": 210,
+    "name": "Burmadame",
+    "id": 413,
     "shiny": false,
     "cp": 1496,
     "shadow": true,
     "moves": {
       "fast": {
-        "name": "a",
-        "type": "fire"
+        "name": "But bit",
+        "type": "bug"
       },
       "charge1": {
-        "name": "b",
-        "type": "water"
+        "name": "Iron Head",
+        "type": "steel"
       },
       "charge2": {
-        "name": "c",
-        "type": "ground"
+        "name": "Buzz",
+        "type": "bug"
       }
     }
   }
