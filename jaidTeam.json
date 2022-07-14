@@ -46,11 +46,11 @@
     "id": 142,
     "shiny": false,
     "cp": 1493,
-    "shadow": false,
+    "shadow": true,
     "moves": {
       "fast": {
         "name": "Rock Throw",
-        "type": "stone"
+        "type": "rock"
       },
       "charge1": {
         "name": "Iron Head",
@@ -58,7 +58,7 @@
       },
       "charge2": {
         "name": "Rock Slide",
-        "type": "stone"
+        "type": "rock"
       }
     }
   }
