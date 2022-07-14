@@ -1,0 +1,47 @@
+- name: Mantine
+  id: 226
+  cp: 1500
+  shiny: false
+  shadow: false
+  moves:
+    fast:
+      name: Bubble
+      type: water
+    charge1:
+      name: Ice Beam
+      type: ice
+    charge2:
+      name: Bubble Beam
+      type: water
+
+- name: Skarmory
+  id: 227
+  cp: 1500
+  shiny: false
+  shadow: false
+  moves:
+    fast:
+      name: Air Slash
+      type: flying
+    charge1:
+      name: Sky Attack
+      type: flying
+    charge2:
+      name: Brave Bird
+      type: flying
+
+- name: Aerodactyl
+  id: 142
+  cp: 1493
+  shiny: false
+  shadow: true
+  moves:
+    fast:
+      name: Rock Throw
+      type: rock
+    charge1:
+      name: Iron Head
+      type: steel
+    charge2:
+      name: Rock Slide
+      type: rock
