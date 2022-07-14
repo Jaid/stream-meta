@@ -21,8 +21,8 @@
     }
   },
   {
-    "name": "Tropius",
-    "id": 357,
+    "name": "Skarmory",
+    "id": 227,
     "shiny": false,
     "cp": 1500,
     "shadow": false,
@@ -32,33 +32,33 @@
         "type": "flying"
       },
       "charge1": {
-        "name": "Leaf Blade",
-        "type": "grass"
+        "name": "Sky Attack",
+        "type": "flying"
       },
       "charge2": {
-        "name": "Aerial Ice",
+        "name": "Brave Bird",
         "type": "flying"
       }
     }
   },
   {
-    "name": "Burmadame",
-    "id": "412-trash",
+    "name": "Aerodactyl",
+    "id": 142,
     "shiny": false,
-    "cp": 1500,
+    "cp": 1493,
     "shadow": false,
     "moves": {
       "fast": {
-        "name": "Bug Bite",
-        "type": "bug"
+        "name": "Rock Throw",
+        "type": "stone"
       },
       "charge1": {
         "name": "Iron Head",
         "type": "steel"
       },
       "charge2": {
-        "name": "Buzz",
-        "type": "bug"
+        "name": "Rock Slide",
+        "type": "stone"
       }
     }
   }
