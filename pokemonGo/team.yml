@@ -14,22 +14,6 @@
       name: Bubble Beam
       type: water
 
-- name: Skarmory
-  id: 227
-  cp: 1500
-  shiny: false
-  shadow: false
-  moves:
-    fast:
-      name: Air Slash
-      type: flying
-    charge1:
-      name: Sky Attack
-      type: flying
-    charge2:
-      name: Brave Bird
-      type: flying
-
 - name: Aerodactyl
   id: 142
   cp: 1493
@@ -45,3 +29,19 @@
     charge2:
       name: Rock Slide
       type: rock
+
+- name: Skarmory
+  id: 227
+  cp: 1500
+  shiny: false
+  shadow: false
+  moves:
+    fast:
+      name: Air Slash
+      type: flying
+    charge1:
+      name: Sky Attack
+      type: flying
+    charge2:
+      name: Brave Bird
+      type: flying
