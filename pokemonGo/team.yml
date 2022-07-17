@@ -30,18 +30,18 @@
       name: Rock Slide
       type: rock
 
-- name: Skarmory
-  id: 227
+- name: Talonflame
+  id: 663
   cp: 1500
   shiny: false
   shadow: false
   moves:
     fast:
-      name: Air Slash
-      type: flying
+      name: Incinerate
+      type: fire
     charge1:
-      name: Sky Attack
-      type: flying
+      name: Flame Charge
+      type: fire
     charge2:
       name: Brave Bird
       type: flying
