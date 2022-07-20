@@ -1,47 +1,47 @@
-- name: Mantine
-  id: 226
-  cp: 1500
+- name: Ledyba
+  id: 165
+  cp: 500
   shiny: false
   shadow: false
   moves:
     fast:
-      name: Bubble
-      type: water
+      name: But Bit
+      type: bug
     charge1:
-      name: Ice Beam
-      type: ice
+      name: Silver Wind
+      type: bug
     charge2:
-      name: Bubble Beam
-      type: water
+      name: Aerial Ace
+      type: flying
 
-- name: Aerodactyl
-  id: 142
-  cp: 1493
+- name: Spinarak
+  id: 167
+  cp: 500
   shiny: false
   shadow: true
   moves:
     fast:
-      name: Rock Throw
-      type: rock
+      name: But Bit
+      type: bug
     charge1:
-      name: Iron Head
-      type: steel
+      name: Cross Poison
+      type: poison
     charge2:
-      name: Rock Slide
-      type: rock
+      name: Night Slash
+      type: dark
 
-- name: Talonflame
-  id: 663
-  cp: 1500
+- name: Meltan
+  id: 808
+  cp: 500
   shiny: false
   shadow: false
   moves:
     fast:
-      name: Incinerate
-      type: fire
+      name: Thunder Shock
+      type: electric
     charge1:
-      name: Flame Charge
-      type: fire
+      name: Thunderbolt
+      type: electric
     charge2:
-      name: Brave Bird
+      name: null
       type: flying
