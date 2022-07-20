@@ -18,7 +18,7 @@
   id: 167
   cp: 500
   shiny: false
-  shadow: true
+  shadow: false
   moves:
     fast:
       name: But Bit
