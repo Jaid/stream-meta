@@ -43,5 +43,5 @@
       name: Thunderbolt
       type: electric
     charge2:
-      name: -
+      name: '-'
       type: normal
