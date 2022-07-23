@@ -14,34 +14,34 @@
       name: Aerial Ace
       type: flying
 
-- name: Spinarak
-  id: 167
+- name: Chinchou
+  id: 170
   cp: 500
   shiny: false
   shadow: false
   moves:
     fast:
-      name: But Bit
-      type: bug
-    charge1:
-      name: Cross Poison
-      type: poison
-    charge2:
-      name: Night Slash
-      type: dark
-
-- name: Meltan
-  id: 808
-  cp: 500
-  shiny: false
-  shadow: false
-  moves:
-    fast:
-      name: Thunder Shock
+      name: Spark
       type: electric
     charge1:
       name: Thunderbolt
       type: electric
     charge2:
-      name: '-'
+      name: Bubble Beam
+      type: water
+
+- name: Nidoran
+  id: 29
+  cp: 500
+  shiny: false
+  shadow: false
+  moves:
+    fast:
+      name: Poison String
+      type: poison
+    charge1:
+      name: Poison Fang
+      type: poison
+    charge2:
+      name: Body Slam
       type: normal
